@@ -22,4 +22,4 @@ else:
     print(response.status_code)
     print("Site did not raise cloudflare.")
 
-input()
+input("Press ENTER To Leave.")
